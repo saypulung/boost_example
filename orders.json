@@ -1,0 +1,22 @@
+{
+  "orders": [
+    {
+      "barang": {
+        "code": "3000"
+      },
+      "user_id": "10"
+    },
+    {
+      "barang": {
+        "code": "3"
+      },
+      "user_id": "20"
+    },
+    {
+      "barang": {
+        "code": ""
+      },
+      "user_id": "30"
+    }
+  ]
+}

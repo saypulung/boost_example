@@ -1,0 +1,11 @@
+1. JSON Object
+g++ -Wall -o out/json_object 01\ json_object.cpp -L/usr/local/lib/
+./out/json_object
+
+2. Foreach JSON Array
+g++ -Wall -o out/json_array 02\ foreach_json_array.cpp -L/usr/local/lib/
+./out/json_array
+
+3. Load Json
+g++ -Wall -o out/load_json 03\ load_json.cpp -L/usr/local/lib/
+./out/load_json
