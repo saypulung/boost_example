@@ -9,3 +9,11 @@ g++ -Wall -o out/json_array 02\ foreach_json_array.cpp -L/usr/local/lib/
 3. Load Json
 g++ -Wall -o out/load_json 03\ load_json.cpp -L/usr/local/lib/
 ./out/load_json
+
+4. Json To Object
+g++ -Wall -o out/load_json 04\ json_to_object.cpp -L/usr/local/lib/
+./out/load_json
+
+5. Filesystem
+g++ -Wall -o out/filesystem 05\ filesystem.cpp -L/usr/local/lib/ -lboost_filesystem -lboost_thread -lboost_chrono -lpthread
+./out/filesystem
